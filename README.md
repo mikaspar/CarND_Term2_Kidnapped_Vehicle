@@ -20,8 +20,8 @@ In this project I implemented a 2 dimensional particle filter in C++. The partic
 4. The particle weights are calculated based on multivariate (x,y) Gaussian probability function.
 5. The particles are resampled proportional to their weights by means of the wheel algorithm.
 
-### Result
-[image1]
+## Result
+![][image1]
 
 
 
