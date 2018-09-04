@@ -19,6 +19,7 @@ In this project I implemented a 2 dimensional particle filter in C++. The partic
 3. Transformation of observation from vehicle to map coordinate system ist performed and only landmarks in the sensor range are taken into account.
 4. The particle weights are calculated based on multivariate (x,y) Gaussian probability function.
 5. The particles are resampled proportional to their weights by means of the wheel algorithm.
+6. The best particle is passed to the simulator.
 
 ## Result
 ![][image1]
