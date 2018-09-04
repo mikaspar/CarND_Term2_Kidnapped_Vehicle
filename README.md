@@ -1,5 +1,11 @@
 # Kidnapped Vehicle Project
 
+
+[//]: # (Image References)
+[image1]: ./Docs/pf.jpg
+
+
+
 ## Project Introduction
 
 A robot has been kidnapped and transported to a new location! Luckily it has a map of this location, a (noisy) GPS estimate of its initial location, and lots of (noisy) sensor and control data.
@@ -15,7 +21,7 @@ In this project I implemented a 2 dimensional particle filter in C++. The partic
 5. The particles are resampled proportional to their weights by means of the wheel algorithm.
 
 ### Result
-
+[image1]
 
 
 
